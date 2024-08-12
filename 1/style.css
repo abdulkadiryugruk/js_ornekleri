@@ -1,0 +1,66 @@
+
+
+body{
+    background-color: cadetblue;
+}
+
+
+.ortala{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    margin: 50px;
+}
+
+.d1{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border-radius: 100px;
+}
+
+.d2{
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+    border-radius: 100px;
+margin-top: 10px;
+}
+.butonlar{
+    margin-top: 20px;
+    display: flex;
+    cursor: pointer;
+}
+.b1{
+    font-size: 30px;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+
+.b2{
+    
+    font-size: 30px;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.b3{
+    
+    font-size: 30px;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+
+
+

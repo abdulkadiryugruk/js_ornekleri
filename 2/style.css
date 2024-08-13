@@ -1,0 +1,16 @@
+
+body{
+    background-color: teal;
+}
+.renk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+    margin: 200px;
+    font-weight: 700;
+}
